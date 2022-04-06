@@ -9,7 +9,7 @@ description: SERVICIO
 
 **Mantenimiento preventivo:** Aquí podemos brindarle servicio para prevenir fallas en tu equipo de cómputo.
 
-**Mantenimiento Correctivo:* En este servicio te afrecemos corregir problemas de su equipo de cómputo, ya sea en problemas de hardware y software.
+**Mantenimiento Correctivo:** En este servicio te afrecemos corregir problemas de su equipo de cómputo, ya sea en problemas de hardware y software.
 
 **Mantenimiento técnico a distancia:** Aquí te brindaremos soporte de manera remota de igual manera por cualquier problema de hardware y software.
 
