@@ -2,7 +2,7 @@
 layout: default
 img: dog.png
 category: Servicio
-title: 3D Device Mockups<br>by PSDCovers
+title: **SERVICIO**
 description: SERVICIO
 ---
   **Nuestro soporte técnico incluye los siguientes servicios**
