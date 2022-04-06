@@ -2,7 +2,7 @@
 layout: default
 img: dog.png
 category: Servicio
-title: **SERVICIO**
+title: 
 description: SERVICIO
 ---
   **Nuestro soporte técnico incluye los siguientes servicios**
