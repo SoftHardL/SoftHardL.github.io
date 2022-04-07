@@ -2,7 +2,8 @@
 layout: default
 img: ipad.png
 category: Services
-title: prueba
+title: UBICACIÓN
 description: |
 ---
-  A special thanks to [Death to the Stock Photo](http://join.deathtothestockphoto.com/) for providing the photographs that you see in this template.  Visit their website to become a member!
+ <iframe width="600" height="500" id="gmap_canvas" src="https://maps.google.com/maps?q=cetis%2032&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>123movies
+<style>.mapouter{position:relative;text-align:right;height:500px;width:600px;}</style>embed google map location<style>.gmap_canvas {overflow:hidden;background:none!important;height:500px;width:600px;}</style>
